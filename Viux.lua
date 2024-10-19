@@ -23,7 +23,7 @@ Heading.BackgroundColor3 = Color3.new(1, 1, 1)
 Heading.TextColor3 = Color3.new(0, 0, 0)
 Heading.Font = Enum.Font.SourceSansBold
 Heading.TextSize = 17
-Heading.Text = " hpy afd ona"
+Heading.Text = "Kick Player"
 Heading.Parent = Frame
 
 local TextBox = Instance.new("TextBox")
